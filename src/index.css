@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", sans-serif;
+  --font-montserrat: "Montserrat", sans-serif;
+  --color-primary: #701B2D;
+  --color-primary-hover: #8C2238;
+  --color-secondary: #1A1A1A;
+  --color-surface: #242424;
+  --color-surface-card: #202020;
+  --color-surface-hover: #2D2D2D;
+  --color-tertiary: #00452D;
+  --color-neutral: #827474;
+  --color-neutral-light: #B0A6A6;
+  --color-neutral-dark: #333333;
+}
